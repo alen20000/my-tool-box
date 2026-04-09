@@ -12,7 +12,7 @@
 *[dev-ops](#dev-ops)
 ---
 ### conda
-- [basic-operation](TIL\conda\basic-operation.md)
+- [basic-operation](TIL/conda/basic-operation.md)
 ---
 ### dev-ops
-- [auto-activate-venv](TIL\dev-ops\auto-activate-venv.md)
+- [auto-activate-venv](TIL/dev-ops/auto-activate-venv.md)
