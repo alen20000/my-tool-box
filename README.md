@@ -19,3 +19,4 @@
 ---
 ### algorithm
 - [QuickSort](TIL/algorithm/QuickSort.md)
+- [BinarySearch](TIL/algorithm/BinarySearch.md)
