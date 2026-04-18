@@ -11,20 +11,31 @@
 
 * [conda](#conda)
 * [dev-ops](#dev-ops)
+* [algorithm](#algorithm)
+* [syntax](#syntax)
+* [web-backen](#web-backen)
+
 ---
 ### conda
 - [basic-operation](TIL/conda/basic-operation.md)
+
 ---
 ### dev-ops
 - [auto-activate-venv](TIL/dev-ops/auto-activate-venv.md)
+- [git-terminal-commands](TIL/dev-ops/git-terminal-commands.md)
+
 ---
 ### algorithm
 - [BinarySearch](TIL/algorithm/BinarySearch.md)
 - [KMP_algorithm](TIL/algorithm/KMP_algorithm.md)
 - [QuickSort](TIL/algorithm/QuickSort.md)
 - [TwoPointers](TIL/algorithm/TwoPointers.md)
+
+---
 ### syntax
 - [syntax](TIL/syntax/C++SyntaxNotes.md)
 
+---
 ### web-backen
 - [Flask](TIL/web-backen/flask/Flask.md)
+
