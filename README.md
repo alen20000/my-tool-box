@@ -20,7 +20,8 @@
 ---
 ### algorithm
 - [BinarySearch](TIL/algorithm/BinarySearch.md)
-- [KMP algorithm](TIL/algorithm/KMP algorithm.md)
+- [KMP_algorithm](TIL/algorithm/KMP_algorithm.md)
 - [QuickSort](TIL/algorithm/QuickSort.md)
+- [TwoPointers](TIL/algorithm/TwoPointers.md)
 ### Syntax
 - [Syntax](TIL/Syntax/C++SyntaxNotes.md)
