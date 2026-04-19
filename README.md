@@ -14,6 +14,7 @@
 * [algorithm](#algorithm)
 * [syntax](#syntax)
 * [web-backen](#web-backen)
+* [feature-logic](#feature-logic)
 
 ---
 ### conda
@@ -39,3 +40,6 @@
 ### web-backen
 - [Flask](TIL/web-backen/flask/Flask.md)
 
+---
+### feature-logic
+[counter-method-mapping-and-vector](TIL/feature-logic/counter-method-mapping-and-vector.md)
