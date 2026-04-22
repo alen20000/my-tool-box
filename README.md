@@ -12,9 +12,11 @@
 * [conda](#conda)
 * [dev-ops](#dev-ops)
 * [algorithm](#algorithm)
+* [data-structures](#data-structures)
 * [syntax](#syntax)
 * [web-backen](#web-backen)
 * [feature-logic](#feature-logic)
+
 
 ---
 ### conda
@@ -31,6 +33,9 @@
 - [KMP_algorithm](TIL/algorithm/KMP_algorithm.md)
 - [QuickSort](TIL/algorithm/QuickSort.md)
 - [TwoPointers](TIL/algorithm/TwoPointers.md)
+
+### data-structures
+- [Linked List](TIL/data-structures/Linked List.md)
 
 ---
 ### syntax
