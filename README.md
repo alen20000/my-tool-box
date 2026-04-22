@@ -35,7 +35,7 @@
 - [TwoPointers](TIL/algorithm/TwoPointers.md)
 
 ### data-structures
-- [Linked List](TIL/data-structures/Linked List.md)
+- [LinkedList](TIL/data-structures/LinkedList.md)
 
 ---
 ### syntax
